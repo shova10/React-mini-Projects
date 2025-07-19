@@ -91,17 +91,39 @@ Project Structure
 The core components are organized as follows:
 
 src/
-├── App.js            # Main application component
-├── Greeting.js       # Component for welcome message
-├── TodoList.js       # Basic static Todo List
-├── Counter.js        # Simple counter component
-├── ToggleSwitch.js   # Toggle ON/OFF switch
-├── TodoEnhanced.js   # Enhanced Todo List with add/delete functionality
-├── MessageToggle.js  # Conditional message rendering
-├── ProductCard.js    # Individual product display card
-├── AuthButton.js     # Login/Logout button and logic
-├── Timer.js          # Simple timer component
-└── index.js          # Entry point of the React application
+├── App.jsx            # Main application component
+
+
+├── Greeting.jsx       # Component for welcome message
+
+
+├── TodoList.jsx       # Basic static Todo List
+
+
+├── Counter.jsx        # Simple counter component
+
+
+├── ToggleSwitch.jsx   # Toggle ON/OFF switch
+
+
+├── TodoEnhanced.jsx   # Enhanced Todo List with add/delete functionality
+
+
+├── MessageToggle.jsx  # Conditional message rendering
+
+
+├── ProductCard.jsx    # Individual product display card
+
+
+├── AuthButton.jsx     # Login/Logout button and logic
+
+
+├── Timer.jsx          # Simple timer component
+
+
+└── index.jsx          # Entry point of the React application
+
+
 └── ...               # Other files (e.g., CSS, assets)
 
 Technologies Used
