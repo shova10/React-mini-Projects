@@ -38,6 +38,8 @@ This application showcases the following React functionalities:
 
     Simple Timer: A basic timer that updates the elapsed time, showcasing the useEffect hook for side effects.
 
+    Quote Generator: A basic quote generator that generates new quotes.
+
 Screenshots
 
 Here are some screenshots of the different components:
@@ -56,6 +58,9 @@ Our Products
 
 Login/Logout Example & Simple Timer	
 <img width="1306" height="472" alt="react5" src="https://github.com/user-attachments/assets/5e869fe3-569f-4834-807a-49ea4f40af2d" />
+
+Quote Generator
+<img width="1294" height="333" alt="Screenshot 2025-07-28 200909" src="https://github.com/user-attachments/assets/a3d8da54-bd8c-49a5-a4e5-c3c02cbf5315" />
 
 
 Installation
@@ -119,6 +124,9 @@ src/
 
 
 ├── Timer.jsx          # Simple timer component
+
+
+├── Quote.jsx          # Simple Quote Generator
 
 
 └── index.jsx          # Entry point of the React application
