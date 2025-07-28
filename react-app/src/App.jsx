@@ -9,6 +9,7 @@ import MessageToggle from './MessageToggle';
 import ProductCard from './ProductCard';
 import AuthButton from './AuthButton';
 import Timer from './Timer';
+import Quote from './Quote'
 
 
 function App(){
@@ -66,6 +67,8 @@ style={{
       <AuthButton />
   <hr style={{ width: '100%' }}/>
   <Timer />
+   <hr style={{ width: '100%' }}/>
+   <Quote />
 </div>
   );
 }
